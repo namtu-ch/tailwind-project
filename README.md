@@ -2,4 +2,4 @@
 
 Hello World!
 
-Let's build something beautiful.
+Building a basic website using HTML and TailwindCSS
